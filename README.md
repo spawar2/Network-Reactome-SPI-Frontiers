@@ -5,7 +5,7 @@
 Georgia State University, Atlanta, United States of America (USA).
 https://csds.gsu.edu/
 Delineating the plausible molecular vaccine candidates and drug targets of multidrug resistant Acinetobacter baumannii, Dr. Lahiri, Shama Mujawar, Shrikant Pawar, Derek Gatherer, Publication: Frontiers in Cellular and Infection Microbiology, Sec. Clinical Microbiology, (Publication date: May 23), collaboration with Dr. Lahiri, Sunway University, Malaysia, IF=4.3. Github, Article link, [Cited times: 18]^^^ DOI: 10.3389/fcimb.2019.00203, Issue: 20, Volume: 9, Pages: 203.
-††††![download2](https://github.com/user-attachments/assets/b3dce637-0733-4fc6-8462-3439391ef540)
+††††![download2](https://github.com/user-attachments/assets/b3dce637-0733-4fc6-8462-3439391ef540) All Nature, BMC, and Frontiers Journal (Q1-level), others (Springer Genes and Genomics, Elsevier Journal of Theoretical Biology, Data in Brief, Wiley's Chemical Biology and Drug Design, etc.): Q2-Q3.
 ^^^Georgia State University, College of Arts and Sciences, Department of Computer Science and Biology, Atlanta, United States of America (USA). 
 †Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
 
